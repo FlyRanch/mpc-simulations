@@ -1,0 +1,3 @@
+set +e
+rm -r plots/
+set -e
