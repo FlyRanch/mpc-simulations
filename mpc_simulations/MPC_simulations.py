@@ -63,7 +63,7 @@ class MPC_simulations():
         # current working directory
         self.working_dir = os.getcwd() 
         self.plots_dir = os.path.join(self.working_dir, 'plots')
-        self.weight_file = os.path.join(self.working_dir, 'muscle_wing_weights_new.h5')
+        self.weight_file = os.path.join(self.working_dir, 'weights', 'muscle_wing_weights_new.h5')
 
     def Renderer(self):
         self.ren = vtk.vtkRenderer()
