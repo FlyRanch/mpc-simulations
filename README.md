@@ -27,7 +27,7 @@ cd into the project's notebook directory and run
 jupyter notebook MPC_simulations.ipynb
 ```
 
-### Images
+### GIFs
 
 ---
 
