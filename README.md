@@ -1,6 +1,7 @@
 ![header](images/mpc_simulations_header.png)
 
-Model Predictive Control (MPC) simulations from Melis and Dickinson 2023.
+Model Predictive Control (MPC) simulations from Melis, Siwanowicz, and
+Dickinson 2023
 
 
 ### Installation
