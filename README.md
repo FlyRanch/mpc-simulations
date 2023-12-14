@@ -1,7 +1,8 @@
 ![header](images/mpc_simulations_header.png)
 
 Model Predictive Control (MPC) simulations from Melis, Siwanowicz, and
-Dickinson 2024
+Dickinson 2024 Contains code for generating data figure 5 and extended data
+figure 6.
 
 ### System Requirements
 
